@@ -22,7 +22,7 @@ To get started with the FrozenOdds Scraper, follow these steps:
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/frozenodds-scraper.git
+git clone https://github.com/Swissch33z/FrozenOdds.git
 cd frozenodds-scraper
 ```
 
