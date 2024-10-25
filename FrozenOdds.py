@@ -6,7 +6,7 @@ import os
 import datetime
 
 # Set up API key and endpoint
-API_KEY = '8cee9511b1812e80f772588fc7bc77bd'  # Replace with the correct API key
+API_KEY = 'Your_API_Key_Here'  # Replace with the correct API key
 BASE_URL = 'https://api.the-odds-api.com/v4/sports/'
 
 
